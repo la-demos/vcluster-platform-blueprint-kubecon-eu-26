@@ -68,8 +68,8 @@ Project ID: 1c2eb3f1-360d-42...
 ## 3. Create a Machine Account
 
 * Create a new machine account.
-* Assign it to the previously created project.
-* Generate an **Access Token**.
+* Assign it to the previously created project. Be aware of the `Permissions`-Setting, should be `read and write`
+* Generate an **Access Token**. Provide a Token-name and a TTL (e.g. 30 days)
 * Copy the access token. You will need it later.
 
 Go to `Machine Accounts` → `Choose your machine account` → `Config`
@@ -78,9 +78,13 @@ and copy the following:
 
 * **Identity Server URL**
   `https://vault.bitwarden.com/identity`
+  or
+  `https://vault.bitwarden.eu/identity`
 
 * **API Server URL**
   `https://vault.bitwarden.com/api`
+  or
+  `https://vault.bitwarden.eu/api`
 
 * **Organization ID**
   `af3fe9e1-e0bc-4f66-...`
