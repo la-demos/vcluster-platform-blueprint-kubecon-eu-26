@@ -1,0 +1,16 @@
+Username: admin
+Password: 157be3d37846987c44f0eaa46321cf459f373f2d45459749024d8304e041b77b
+
+Login via UI:  https://yp8x4ki.loft.host
+Login via CLI: vcluster platform login https://yp8x4ki.loft.host
+
+---
+
+Identity Server: https://vault.bitwarden.com/identity
+Org ID: 31fa4cbc-fe03-43eb-848b-b41600cf26bf
+API Server Url: https://vault.bitwarden.com/api
+Project ID: 9bf12389-895c-4279-964f-b41600cf4897
+
+
+
+0.6d3c8a67-0c2e-4c25-af62-b41600cfaf20.CxY9myxWfjb9j2A7biwli3WYIyAjyt:sVTAZQSOw/ODvayiGB7n4Q==
